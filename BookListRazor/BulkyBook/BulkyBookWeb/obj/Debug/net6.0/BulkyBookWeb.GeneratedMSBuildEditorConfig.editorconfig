@@ -11,7 +11,7 @@ build_property.RootNamespace = BulkyBookWeb
 build_property.ProjectDir = C:\Users\Alwqar\Downloads\Mastering-ASP.NET\BookListRazor\BulkyBook\BulkyBookWeb\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\Alwqar\Downloads\Mastering-ASP.NET\BookListRazor\BulkyBook\BulkyBookWeb
 build_property._RazorSourceGeneratorDebug = 
 
