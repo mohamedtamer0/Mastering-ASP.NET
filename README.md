@@ -3,6 +3,27 @@
 
 <br>
 
+---
+## Preview
+<br/>
+
+Home            | 
+:-------------------------:|
+<img src="https://user-images.githubusercontent.com/51374446/168444272-067aa0ee-5a8e-4d68-9818-d0f6a0521281.png" width="1200" height="800" />  |
+  
+Create            | 
+:-------------------------:|
+<img src="https://user-images.githubusercontent.com/51374446/168444544-e766ce13-283e-4bbe-b837-7b43f655d8c3.png" width="1200" height="800" />  |
+  
+Edit            | 
+:-------------------------:|
+<img src="https://user-images.githubusercontent.com/51374446/168444565-e9e2e6f5-ab39-4264-9364-80b9afbf0637.png" width="1200" height="800" />  |
+  
+Delete            | 
+:-------------------------:|
+<img src="https://user-images.githubusercontent.com/51374446/168444577-32612691-9d23-4eb5-a3fb-438285c03181.png" width="1200" height="800" />  |
+
+<br><br/>
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+)  - 001 - Create Category Model
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+)  - 002 - Add Data Annotations
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+)  - 003 - Add Connection String
