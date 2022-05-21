@@ -30,5 +30,10 @@ namespace MasteringWebForm
             };
 
         }
+
+        protected void TextBox1_TextChanged(object sender, EventArgs e)
+        {
+            Response.Write("Text Click");
+        }
     }
 }

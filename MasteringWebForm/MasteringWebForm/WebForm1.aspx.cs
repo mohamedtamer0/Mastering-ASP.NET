@@ -30,5 +30,10 @@ namespace MasteringWebForm
             };
 
         }
+
+        protected void Button2_Click(object sender, EventArgs e)
+        {
+            Response.Write("Button Click");
+        }
     }
 }
